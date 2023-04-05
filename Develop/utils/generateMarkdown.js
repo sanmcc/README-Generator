@@ -39,7 +39,7 @@ ${data.description}
 
 -[Usage](#usage)
 
-${licenseLink(data.license)}
+-${licenseLink(data.license)}
 
 -[Contributing](#contributing)
 
